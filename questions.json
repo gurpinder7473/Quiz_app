@@ -1,37 +1,19 @@
 [
-    {
-        "question": "What is the capital of India?",
-        "options": [
-            "Mumbai",
-            "Delhi",
-            "Kolkata",
-            "Chennai"
-        ],
-        "answer": "Delhi"
-    },
-    {
-        "question": "Which planet is known as the Red Planet?",
-        "options": [
-            "Earth",
-            "Venus",
-            "Mars",
-            "Jupiter"
-        ],
-        "answer": "Mars"
-    },
-    {
-        "question": "What is the square root of 64?",
-        "options": [
-            "6",
-            "8",
-            "7",
-            "9"
-        ],
-        "answer": "8"
-    }
-]
-
-[
+  {
+    "question": "What is the capital of India?",
+    "options": ["Mumbai", "Delhi", "Kolkata", "Chennai"],
+    "answer": "Delhi"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Earth", "Venus", "Mars", "Jupiter"],
+    "answer": "Mars"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "8", "7", "9"],
+    "answer": "8"
+  },
   {
     "question": "What is the boiling point of water in Celsius?",
     "options": ["50°C", "75°C", "100°C", "120°C"],
