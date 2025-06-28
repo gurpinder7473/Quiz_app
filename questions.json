@@ -30,3 +30,56 @@
         "answer": "8"
     }
 ]
+
+[
+  {
+    "question": "What is the boiling point of water in Celsius?",
+    "options": ["50°C", "75°C", "100°C", "120°C"],
+    "answer": "100°C"
+  },
+  {
+    "question": "Which part of the plant makes food?",
+    "options": ["Roots", "Stem", "Leaves", "Flowers"],
+    "answer": "Leaves"
+  },
+  {
+    "question": "What gas do humans breathe in to survive?",
+    "options": ["Oxygen", "Carbon Dioxide", "Hydrogen", "Nitrogen"],
+    "answer": "Oxygen"
+  },
+  {
+    "question": "How many planets are there in our solar system?",
+    "options": ["7", "8", "9", "10"],
+    "answer": "8"
+  },
+  {
+    "question": "Which organ in our body pumps blood?",
+    "options": ["Lungs", "Brain", "Heart", "Liver"],
+    "answer": "Heart"
+  },
+  {
+    "question": "What is the center of an atom called?",
+    "options": ["Electron", "Proton", "Nucleus", "Neutron"],
+    "answer": "Nucleus"
+  },
+  {
+    "question": "Which vitamin is made by sunlight?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"],
+    "answer": "Vitamin D"
+  },
+  {
+    "question": "What is H2O the chemical formula for?",
+    "options": ["Salt", "Water", "Oxygen", "Hydrogen"],
+    "answer": "Water"
+  },
+  {
+    "question": "Which simple machine is used to lift heavy loads?",
+    "options": ["Lever", "Screw", "Wheel", "Pulley"],
+    "answer": "Pulley"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Earth", "Mercury", "Mars"],
+    "answer": "Mercury"
+  }
+]
