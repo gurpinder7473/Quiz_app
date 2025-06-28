@@ -1,5 +1,5 @@
 
-# Quiz App 💖
+# Quiz App 
 
 A fun, interactive quiz app built using **Streamlit**.
 
@@ -26,4 +26,3 @@ streamlit run quiz_app.py
 
 ---
 
-Made with 💕 for curious minds!
