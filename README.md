@@ -4,8 +4,8 @@
 A fun, interactive quiz app built using **Streamlit**.
 
 ## 💡 Features
-- Multiple-choice questions with scoring 🧠
-- Live feedback on each question ✅❌
+- Multiple-choice questions with scoring 
+- Live feedback on each question
 - Final score summary 🎯
 
 ## 🚀 Run the App
