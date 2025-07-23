@@ -26,3 +26,4 @@ streamlit run quiz_app.py
 
 ---
 
+Link for Quiz App--https://quizapp-gkxz59ttmmtbssttxpvutt.streamlit.app/
